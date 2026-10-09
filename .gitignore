@@ -1,7 +1,10 @@
 lab_data/
+data_lab21/
 runs/
 TrackEval/
+.kilo/
 *.pt
 __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
+.venv/
